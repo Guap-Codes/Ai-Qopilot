@@ -1,2 +1,2 @@
 # AI-Copilot-Q
-This chatbot leverages the power of OpenAI API to facilitate natural language processing and generate intelligent responses.
+This AI chatbot web app is an interactive conversational tool designed to engage with users and provide relevant information. Built with Javascript, HTML, and CSS, the chatbot leverages the power of OpenAI API to facilitate natural language processing and generate intelligent responses. With its sleek design and intuitive interface, this chatbot is perfect for businesses looking to automate customer service, or for anyone seeking a fun and informative chat experience.
